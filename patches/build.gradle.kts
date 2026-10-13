@@ -1,4 +1,4 @@
-group = "app.patches.morphe.gigahawk"
+group = "gigahawk.morphe"
 
 patches {
     // TODO: Update this section with your project details.
@@ -33,7 +33,5 @@ tasks {
     }
 
     // Used by gradle-semantic-release-plugin.
-    publish {
-        dependsOn("generatePatchesList")
-    }
+    publish { dependsOn("generatePatchesList") }
 }
