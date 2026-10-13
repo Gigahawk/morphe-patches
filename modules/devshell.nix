@@ -16,6 +16,12 @@
             jdk21
             gradle
             maven
+
+            apkeditor
+            apktool
+            dex2jar
+            jadx
+
             sdk.androidSdk
             sdk.platformTools
           ];
