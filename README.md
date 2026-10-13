@@ -16,7 +16,10 @@ https://morphe.software/add-source?github=Gigahawk/morphe-patches
 ## 🩹 Patches list
 
 <!-- PATCHES_START EXPANDED -->
-> **[v1.0.0](https://github.com/Gigahawk/morphe-patches/releases/tag/v1.0.0)**&nbsp;&nbsp;•&nbsp;&nbsp;`main`&nbsp;&nbsp;•&nbsp;&nbsp;2 patches total
+
+> **[v1.0.0-dev.1](https://github.com/Gigahawk/morphe-patches/releases/tag/v1.0.0-dev.1)**&nbsp;&nbsp;•&nbsp;&nbsp;`dev`&nbsp;&nbsp;•&nbsp;&nbsp;2
+> patches total
+
 <details open>
 <summary>📦 Float Control&nbsp;&nbsp;•&nbsp;&nbsp;1 patch</summary>
 <br>
@@ -26,9 +29,9 @@ https://morphe.software/add-source?github=Gigahawk/morphe-patches
 | 3.6.8 |
 | :---: |
 
-| 💊&nbsp;Patch | 📜&nbsp;Description | ⚙️&nbsp;Options |
-|----------|----------------|-----------|
-| [Enable Pro](#enable-pro) | Enables pro features. |  |
+| 💊&nbsp;Patch             | 📜&nbsp;Description   | ⚙️&nbsp;Options |
+| ------------------------- | --------------------- | --------------- |
+| [Enable Pro](#enable-pro) | Enables pro features. |                 |
 
 </details>
 
@@ -41,9 +44,9 @@ https://morphe.software/add-source?github=Gigahawk/morphe-patches
 | 2.0.0 | 1.0.2 |
 | :---: | :---: |
 
-| 💊&nbsp;Patch | 📜&nbsp;Description | ⚙️&nbsp;Options |
-|----------|----------------|-----------|
-| [Example Patch](#example-patch) | Example patch to start with. |  |
+| 💊&nbsp;Patch                   | 📜&nbsp;Description          | ⚙️&nbsp;Options |
+| ------------------------------- | ---------------------------- | --------------- |
+| [Example Patch](#example-patch) | Example patch to start with. |                 |
 
 </details>
 
