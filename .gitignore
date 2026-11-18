@@ -131,3 +131,6 @@ local.properties
 
 # Ignore nix outputs
 **result
+
+## Ignore KLS database
+**kls_database.db

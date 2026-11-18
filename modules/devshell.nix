@@ -20,10 +20,12 @@
             apkeditor
             apktool
             dex2jar
-            jadx
 
             sdk.androidSdk
             sdk.platformTools
+
+            self'.packages.morphe-desktop
+            self'.packages.jadx
           ];
 
           ANDROID_SDK_ROOT = "${sdk.androidSdk}/libexec/android-sdk";
